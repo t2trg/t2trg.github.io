@@ -11,5 +11,5 @@ An IRTF research group. Join the [mailing list](https://www.irtf.org/mailman/lis
 * [RESTful Design for Internet of Things Systems](https://github.com/t2trg/t2trg-rest-iot)
 * [Security Considerations in the IP-based Internet of Things](https://github.com/t2trg/iot-seccons)
 * [Secure IoT Bootstrapping: A Survey](https://github.com/t2trg/sbootstrapping)
-* CoRAL
+* [The Constrained RESTful Application Language (CoRAL)](https://datatracker.ietf.org/doc/draft-hartke-t2trg-coral/)
 * PlugREST
