@@ -4,7 +4,7 @@ An IRTF research group. Join the [mailing list](https://www.irtf.org/mailman/lis
 
 ### Upcoming Meetings
 
-* T2TRG joint meeting with W3C WoT, (Düsseldorf, DE \| Prague, CZ), {14,16} July 2017 (just before IETF 99)
+* [T2TRG joint meeting with W3C WoT/OCF/OMA/IPSO, Prague, CZ, 15-16 Jul 2017](https://github.com/t2trg/2017-07-wishi)
 
 ### Work items
 
