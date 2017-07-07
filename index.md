@@ -1,6 +1,12 @@
 ## Thing-to-Thing Research Group
 
-An IRTF research group. Join the [mailing list](https://www.irtf.org/mailman/listinfo/t2trg) to participate.
+The Thing-to-Thing Research Group (T2TRG) is an [IRTF](https://irtf.org/) research group investigating open research issues in turning a true “Internet of Things” into reality, an Internet where low-resource nodes (“things”, “constrained nodes”) can communicate among themselves and with the wider Internet, in order to partake in permissionless innovation. The focus of the T2TRG are on issues that touch opportunities for standardization in the [IETF](https://ietf.org/), i.e., it will start at the adaptation layer connecting devices to IP, and end at the application layer with architectures and APIs for communicating and making data and management functions (including security functions) available.
+
+More information about the group is available at the [IRTF home page](https://irtf.org/t2trg).
+
+Join the [mailing list](https://www.irtf.org/mailman/listinfo/t2trg) and the upcoming meetings to participate.
+
+T2TRG employs an open membership policy towards all interested researchers and engineers to participate in the work.
 
 ### Upcoming Meetings
 
