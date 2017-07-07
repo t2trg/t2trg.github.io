@@ -1,16 +1,16 @@
 ## Thing-to-Thing Research Group
 
-The Thing-to-Thing Research Group (T2TRG) is an [IRTF](https://irtf.org/) research group investigating open research issues in turning a true “Internet of Things” into reality, an Internet where low-resource nodes (“things”, “constrained nodes”) can communicate among themselves and with the wider Internet, in order to partake in permissionless innovation. The focus of the T2TRG are on issues that touch opportunities for standardization in the [IETF](https://ietf.org/), i.e., it will start at the adaptation layer connecting devices to IP, and end at the application layer with architectures and APIs for communicating and making data and management functions (including security functions) available.
+The Thing-to-Thing Research Group (T2TRG) is an [IRTF](https://irtf.org/) research group investigating open research issues in turning a true “Internet of Things” into reality, an Internet where low-resource nodes (“things”, “constrained nodes”) can communicate among themselves and with the wider Internet, in order to partake in permissionless innovation. T2TRG focuses on issues that touch opportunities for standardization in the [IETF](https://ietf.org/): starting at the adaptation layer connecting devices to IP, all the way through to the application layer with architectures and APIs for communicating and making data and management functions (including security functions) available.
 
 More information about the group is available at the [IRTF home page](https://irtf.org/t2trg).
 
 Join the [mailing list](https://www.irtf.org/mailman/listinfo/t2trg) and the upcoming meetings to participate.
 
-T2TRG employs an open membership policy towards all interested researchers and engineers to participate in the work.
+T2TRG employs an open membership policy towards all interested researchers and engineers to participate in the work: joining the mailing list is really all you need to do to become a T2TRG member.
 
 ### Upcoming Meetings
 
-* [T2TRG joint meeting with W3C WoT/OCF/OMA/IPSO, Prague, CZ, 15-16 Jul 2017](https://github.com/t2trg/2017-07-wishi)
+* [T2TRG joint meeting with W3C WoT/OCF/OMA/IPSO/..., Prague, CZ, 15-16 Jul 2017](https://github.com/t2trg/2017-07-wishi)
 
 ### Work items
 
