@@ -22,7 +22,7 @@ T2TRG employs an open membership policy towards all interested researchers and e
 
 ### Past Meetings
 
-* [T2TRG Workshop on IoT Semantic/Hypermedia Interoperability, Prague, CZ, 15-16 Jul 2017](https://github.com/t2trg/2017-07-wishi)
+* [T2TRG Workshop on IoT Semantic/Hypermedia Interoperability (WISHI), Prague, CZ, 15-16 Jul 2017](https://github.com/t2trg/2017-07-wishi)
 * [T2TRG joint meeting with OCF, Amsterdam, NL, 9-10 Mar 2017](https://github.com/t2trg/2017-03-ocf)
 * [T2TRG joint meeting with ICNRG, Seoul, KR, 13 Nov 2016](https://github.com/t2trg/2016-11-icnrg)
 * [T2TRG Implementers Workshop, Ludwigsburg, DE, 27 Oct 2016](https://github.com/t2trg/2016-10-implementers)
