@@ -9,8 +9,8 @@ Join the [mailing list](https://www.irtf.org/mailman/listinfo/t2trg) and the upc
 T2TRG employs an open membership policy towards all interested researchers and engineers to participate in the work: joining the mailing list is really all you need to do to become a T2TRG member.
 
 ### Upcoming Meetings
-* [T2TRG meeting, Berlin, 23-24 Sep 2017](https://github.com/t2trg/2017-09-berlin/)
-* T2TRG joint meeting with OCF, Singapore, 10 Nov 2017
+* [T2TRG meeting, Berlin, DE, 23-24 Sep 2017](https://github.com/t2trg/2017-09-berlin/)
+* [T2TRG joint meeting with OCF, Singapore, SG, 10 Nov 2017](https://github.com/t2trg/2017-11-ocf)
 
 ### Work items
 
