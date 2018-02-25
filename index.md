@@ -12,12 +12,15 @@ T2TRG employs an open membership policy towards all interested researchers and e
 * [T2TRG summary meeting, London, UK, 22 Mar 2018](https://github.com/t2trg/2018-ietf101)
 * [T2TRG joint meeting with OCF and W3C WoT, Prague, 23 Mar 2018](https://github.com/t2trg/2018-03-ocf-wot)
 
+### Ongoing Activities
 
-### Work items
+* [Work on IoT Semantic/Hypermedia Interoperability](http://wishi.space/)
+
+
+### Work Items
 
 * [RESTful Design for Internet of Things Systems](https://github.com/t2trg/t2trg-rest-iot)
 * [Security Considerations in the IP-based Internet of Things](https://github.com/t2trg/iot-seccons)
-* [Secure IoT Bootstrapping: A Survey](https://github.com/t2trg/sbootstrapping)
 * [The Constrained RESTful Application Language (CoRAL)](https://datatracker.ietf.org/doc/draft-hartke-t2trg-coral/)
 * PlugREST
 
