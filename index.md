@@ -9,8 +9,7 @@ Join the [mailing list](https://www.irtf.org/mailman/listinfo/t2trg) and the upc
 T2TRG employs an open membership policy towards all interested researchers and engineers to participate in the work: joining the mailing list is really all you need to do to become a T2TRG member.
 
 ### Upcoming Meetings
-* [T2TRG summary meeting, London, UK, 22 Mar 2018](https://github.com/t2trg/2018-ietf101)
-* [T2TRG joint meeting with OCF and W3C WoT, Prague, 23 Mar 2018](https://github.com/t2trg/2018-03-ocf-wot)
+* [T2TRG summary meeting, Montreal, Canada, 19 Jul 2018](https://github.com/t2trg/2018-ietf102)
 
 ### Ongoing Activities
 
@@ -25,6 +24,8 @@ T2TRG employs an open membership policy towards all interested researchers and e
 * PlugREST
 
 ### Past Meetings
+* [T2TRG summary meeting, London, UK, 22 Mar 2018](https://github.com/t2trg/2018-ietf101)
+* [T2TRG joint meeting with OCF and W3C WoT, Prague, 23 Mar 2018](https://github.com/t2trg/2018-03-ocf-wot)
 * [T2TRG joint meeting with OCF, Singapore, SG, 10 Nov 2017](https://github.com/t2trg/2017-11-ocf)
 * [T2TRG summary meeting, Singapore, SG, 14 Nov 2017](https://github.com/t2trg/2017-ietf100)
 * [T2TRG meeting, Berlin, DE, 23-24 Sep 2017](https://github.com/t2trg/2017-09-berlin/)
