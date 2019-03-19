@@ -25,6 +25,9 @@ T2TRG employs an open membership policy towards all interested researchers and e
 * PlugREST
 
 ### Past Meetings
+
+* [T2TRG Friday work meeting, Bangkok, Thailand, 9 Nov 2018](https://github.com/t2trg/2018-11-bangkok)
+* [T2TRG summary meeting, Bangkok, Thailand, 6 Nov 2018](https://github.com/t2trg/2018-ietf103)
 * [T2TRG summary meeting, Montreal, Canada, 19 Jul 2018](https://github.com/t2trg/2018-ietf102)
 * [T2TRG summary meeting, London, UK, 22 Mar 2018](https://github.com/t2trg/2018-ietf101)
 * [T2TRG joint meeting with OCF and W3C WoT, Prague, 23 Mar 2018](https://github.com/t2trg/2018-03-ocf-wot)
