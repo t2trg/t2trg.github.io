@@ -3,7 +3,7 @@ On the other hand, we like it when members of our community run events
 or organize publications that are relevant to our work.  A personal
 note with a pointer to such an opportunity, some explanation how our
 research group work fits in, and maybe even another message with a
-summary of important outcomes after the event is totally in line with
+summary of important outcomes after the event, is totally in line with
 the purpose of this mailing list.
 
 We are working on finding a CfP policy for the T2TRG mailing list
