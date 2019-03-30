@@ -6,7 +6,9 @@ More information about the group is available at the [IRTF home page](https://ir
 
 Join the [mailing list](https://www.irtf.org/mailman/listinfo/t2trg) and the upcoming meetings to participate.
 
-T2TRG employs an open membership policy towards all interested researchers and engineers to participate in the work: joining the mailing list is really all you need to do to become a T2TRG member.
+T2TRG employs an open membership policy towards all interested researchers and engineers to participate in the work: joining the mailing list is really all you need to do to become a T2TRG member.  (We have a [policy][cfp] for sending Call for Papers and similar announcements to the mailing list.)
+
+[cfp]: CFP-POLICY.md
 
 ### Upcoming Meetings
 
