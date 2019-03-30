@@ -23,3 +23,6 @@ specific information on how the call is relevant to the T2TRG agenda.
 For conferences, the message also should indicate how T2TRG will be
 represented at the event.
 
+---
+
+Find this policy at <https://t2trg.github.io/CFP-POLICY.html>
