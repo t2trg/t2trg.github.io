@@ -6,7 +6,7 @@ research group work fits in, and maybe even another message with a
 summary of important outcomes after the event is totally in line with
 the purpose of this mailing list.
 
-We are working on finding a on a CfP policy for the T2TRG mailing list
+We are working on finding a CfP policy for the T2TRG mailing list
 that hits a good balance between making useful information available to
 research group members and not spamming the list.
 
