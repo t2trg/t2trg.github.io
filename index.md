@@ -12,7 +12,8 @@ T2TRG employs an open membership policy towards all interested researchers and e
 
 ### Upcoming Meetings
 
-* Summary and Work Meetings at IETF 106, Singapore, November 2019
+* [T2TRG summary meeting at IETF 107, March 2020 in Vancouver](https://github.com/t2trg/2020-ietf107)
+* [T2TRG pre-IETF107 work meeting in Vancouver](https://github.com/t2trg/2020-03-vancouver)
 
 ### Ongoing Activities
 
@@ -26,7 +27,8 @@ T2TRG employs an open membership policy towards all interested researchers and e
 * PlugREST
 
 ### Past Meetings
-
+* [T2TRG summary meeting at IETF 106, November 2019 in Singapore](https://github.com/t2trg/2019-ietf106)
+* [T2TRG / W3C WoT meeting in Singapore, November 15th, 2019](https://github.com/t2trg/2019-11-singapore)  
 * [T2TRG summary meeting, Montreal, Canada, 27 Jul 2019](https://github.com/t2trg/2019-ietf105/)
 * [T2TRG Wednesday work meeting, Montreal, Canada, 27 Jul 2019](https://github.com/t2trg/2019-ietf105/wiki/T2TRG-work-meeting)
 * [T2TRG joint meeting with OMA SpecWorks, Montreal, Canada, 19 Jul 2019](https://github.com/t2trg/2019-07-oma)
