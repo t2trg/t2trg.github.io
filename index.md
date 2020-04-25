@@ -12,8 +12,8 @@ T2TRG employs an open membership policy towards all interested researchers and e
 
 ### Upcoming Meetings
 
-* [T2TRG summary meeting at IETF 107, March 2020 in Vancouver](https://github.com/t2trg/2020-ietf107)
-* [T2TRG pre-IETF107 work meeting in Vancouver](https://github.com/t2trg/2020-03-vancouver)
+* [T2TRG / W3C WoT meeting, June 2020](https://github.com/t2trg/2020-06-helsinki)
+* [WISHI on-line meetings](https://github.com/t2trg/wishi/wiki/Agenda-items)
 
 ### Ongoing Activities
 
@@ -22,11 +22,12 @@ T2TRG employs an open membership policy towards all interested researchers and e
 ### Work Items
 
 * [RESTful Design for Internet of Things Systems](https://github.com/t2trg/t2trg-rest-iot)
-* [Security Considerations in the IP-based Internet of Things](https://github.com/t2trg/iot-seccons)
 * [The Constrained RESTful Application Language (CoRAL)](https://datatracker.ietf.org/doc/draft-hartke-t2trg-coral/)
 * PlugREST
 
 ### Past Meetings
+* [T2TRG summary meeting at IETF 107, March 2020](https://github.com/t2trg/2020-ietf107)
+* [T2TRG pre-IETF107 work meeting](https://github.com/t2trg/2020-03-vancouver)
 * [T2TRG summary meeting at IETF 106, November 2019 in Singapore](https://github.com/t2trg/2019-ietf106)
 * [T2TRG / W3C WoT meeting in Singapore, November 15th, 2019](https://github.com/t2trg/2019-11-singapore)  
 * [T2TRG summary meeting, Montreal, Canada, 27 Jul 2019](https://github.com/t2trg/2019-ietf105/)
