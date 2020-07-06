@@ -11,8 +11,7 @@ T2TRG employs an open membership policy towards all interested researchers and e
 [cfp]: CFP-POLICY.md
 
 ### Upcoming Meetings
-
-* [T2TRG / W3C WoT meeting, June 2020](https://github.com/t2trg/2020-06-helsinki)
+* [T2TRG summary meeting, July 2020](https://github.com/t2trg/2020-07-summary)
 * [WISHI on-line meetings](https://github.com/t2trg/wishi/wiki/Agenda-items)
 
 ### Ongoing Activities
@@ -26,6 +25,7 @@ T2TRG employs an open membership policy towards all interested researchers and e
 * PlugREST
 
 ### Past Meetings
+* [T2TRG / W3C WoT meeting, June 2020](https://github.com/t2trg/2020-06-helsinki)
 * [T2TRG summary meeting at IETF 107, March 2020](https://github.com/t2trg/2020-ietf107)
 * [T2TRG pre-IETF107 work meeting](https://github.com/t2trg/2020-03-vancouver)
 * [T2TRG summary meeting at IETF 106, November 2019 in Singapore](https://github.com/t2trg/2019-ietf106)
