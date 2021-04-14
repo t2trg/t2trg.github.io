@@ -11,7 +11,6 @@ T2TRG employs an open membership policy towards all interested researchers and e
 [cfp]: CFP-POLICY.md
 
 ### Upcoming Meetings
-* [T2TRG summary meeting, July 2020](https://github.com/t2trg/2020-07-summary)
 * [WISHI on-line meetings](https://github.com/t2trg/wishi/wiki/Agenda-items)
 
 ### Ongoing Activities
@@ -21,10 +20,12 @@ T2TRG employs an open membership policy towards all interested researchers and e
 ### Work Items
 
 * [RESTful Design for Internet of Things Systems](https://github.com/t2trg/t2trg-rest-iot)
-* [The Constrained RESTful Application Language (CoRAL)](https://datatracker.ietf.org/doc/draft-hartke-t2trg-coral/)
-* PlugREST
+* [IoT Edge Computing Challenges and Functions](https://github.com/t2trg/t2trg-iot-edge-computing)
+* [Secure IoT Bootstrapping: A Survey](https://github.com/t2trg/sbootstrapping)
 
 ### Past Meetings
+* [T2TRG summary meeting at IETF 110](https://github.com/t2trg/2021-ietf110)
+* [T2TRG summary meeting, July 2020](https://github.com/t2trg/2020-07-summary)
 * [T2TRG / W3C WoT meeting, June 2020](https://github.com/t2trg/2020-06-helsinki)
 * [T2TRG summary meeting at IETF 107, March 2020](https://github.com/t2trg/2020-ietf107)
 * [T2TRG pre-IETF107 work meeting](https://github.com/t2trg/2020-03-vancouver)
