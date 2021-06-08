@@ -12,6 +12,8 @@ T2TRG employs an open membership policy towards all interested researchers and e
 
 ### Upcoming Meetings
 * [WISHI on-line meetings](https://github.com/t2trg/wishi/wiki/Agenda-items)
+* [T2TRG summary meeting, June 2021](https://github.com/t2trg/2021-06-summary)
+
 
 ### Ongoing Activities
 
@@ -22,6 +24,7 @@ T2TRG employs an open membership policy towards all interested researchers and e
 * [RESTful Design for Internet of Things Systems](https://github.com/t2trg/t2trg-rest-iot)
 * [IoT Edge Computing Challenges and Functions](https://github.com/t2trg/t2trg-iot-edge-computing)
 * [Secure IoT Bootstrapping: A Survey](https://github.com/t2trg/sbootstrapping)
+* [IoT Information-Model Standards Description](https://github.com/t2trg/semantic-landscape)
 
 ### Past Meetings
 * [T2TRG summary meeting at IETF 110](https://github.com/t2trg/2021-ietf110)
