@@ -12,8 +12,6 @@ T2TRG employs an open membership policy towards all interested researchers and e
 
 ### Upcoming Meetings
 * [WISHI on-line meetings](https://github.com/t2trg/wishi/wiki/Agenda-items)
-* [T2TRG summary meeting, October 2021]( https://github.com/t2trg/2021-10-summary)
-
 
 
 ### Ongoing Activities
@@ -28,6 +26,7 @@ T2TRG employs an open membership policy towards all interested researchers and e
 * [IoT Information-Model Standards Description](https://github.com/t2trg/semantic-landscape)
 
 ### Past Meetings
+* [T2TRG summary meeting, October 2021]( https://github.com/t2trg/2021-10-summary)
 * [T2TRG summary meeting, June 2021](https://github.com/t2trg/2021-06-summary)
 * [T2TRG summary meeting at IETF 110](https://github.com/t2trg/2021-ietf110)
 * [T2TRG summary meeting, July 2020](https://github.com/t2trg/2020-07-summary)
