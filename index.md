@@ -11,6 +11,7 @@ T2TRG employs an open membership policy towards all interested researchers and e
 [cfp]: CFP-POLICY.md
 
 ### Upcoming Meetings
+* [T2TRG summary meeting, March 2022](https://github.com/t2trg/2022-03-summary)
 * [WISHI on-line meetings](https://github.com/t2trg/wishi/wiki/Agenda-items)
 
 
