@@ -11,12 +11,10 @@ T2TRG employs an open membership policy towards all interested researchers and e
 [cfp]: CFP-POLICY.md
 
 ### Upcoming Meetings
-* [T2TRG summary meeting, March 2022](https://github.com/t2trg/2022-03-summary)
 * [WISHI on-line meetings](https://github.com/t2trg/wishi/wiki/Agenda-items)
 
 
 ### Ongoing Activities
-
 * [Work on IoT Semantic/Hypermedia Interoperability](http://wishi.space/)
 
 ### Work Items
@@ -27,6 +25,7 @@ T2TRG employs an open membership policy towards all interested researchers and e
 * [IoT Information-Model Standards Description](https://github.com/t2trg/semantic-landscape)
 
 ### Past Meetings
+* [T2TRG summary meeting, March 2022](https://github.com/t2trg/2022-03-summary)
 * [T2TRG summary meeting, October 2021]( https://github.com/t2trg/2021-10-summary)
 * [T2TRG summary meeting, June 2021](https://github.com/t2trg/2021-06-summary)
 * [T2TRG summary meeting at IETF 110](https://github.com/t2trg/2021-ietf110)
