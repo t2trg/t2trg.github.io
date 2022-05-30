@@ -11,7 +11,6 @@ T2TRG employs an open membership policy towards all interested researchers and e
 [cfp]: CFP-POLICY.md
 
 ### Upcoming Meetings
-* [T2TRG work meeting on Digital Twins](https://github.com/t2trg/2022-05-digital-twins)
 * [WISHI on-line meetings](https://github.com/t2trg/wishi/wiki/Agenda-items)
 
 
@@ -26,6 +25,7 @@ T2TRG employs an open membership policy towards all interested researchers and e
 * [IoT Information-Model Standards Description](https://github.com/t2trg/semantic-landscape)
 
 ### Past Meetings
+* [T2TRG work meeting on Digital Twins](https://github.com/t2trg/2022-05-digital-twins)
 * [T2TRG summary meeting, March 2022](https://github.com/t2trg/2022-03-summary)
 * [T2TRG summary meeting, October 2021]( https://github.com/t2trg/2021-10-summary)
 * [T2TRG summary meeting, June 2021](https://github.com/t2trg/2021-06-summary)
