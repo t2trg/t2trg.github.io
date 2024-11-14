@@ -11,7 +11,6 @@ T2TRG employs an open membership policy towards all interested researchers and e
 [cfp]: CFP-POLICY.md
 
 ### Upcoming Meetings
-* [T2TRG summary meeting at IETF 121](https://github.com/t2trg/2024-ietf121)
 
 
 ### Ongoing Activities
@@ -19,12 +18,13 @@ T2TRG employs an open membership policy towards all interested researchers and e
 
 ### Work Items
 
-* [RESTful Design for Internet of Things Systems](https://github.com/t2trg/t2trg-rest-iot)
-* [IoT Edge Computing Challenges and Functions](https://github.com/t2trg/t2trg-iot-edge-computing)
-* [Secure IoT Bootstrapping: A Survey](https://github.com/t2trg/sbootstrapping)
-* [IoT Information-Model Standards Description](https://github.com/t2trg/semantic-landscape)
+* [Guidance on RESTful Design for IoT Systems](https://github.com/t2trg/t2trg-rest-iot)
+* [Terminology and processes for initial security setup of IoT devices](https://github.com/t2trg/security-setup-iot-devices)
+* [A Taxonomy of operational security considerations for manufacturer installed keys and Trust Anchors ](https://github.com/t2trg/draft-irtf-t2trg-taxonomy-manufacturer-anchors)
+* [Amplification Attacks Using CoAP](https://github.com/t2trg/t2trg-amplification-attacks)
 
 ### Past Meetings
+* [T2TRG summary meeting at IETF 121](https://github.com/t2trg/2024-ietf121)
 * [T2TRG interim meeting, June 2024](https://github.com/t2trg/2024-06-t2trg)
 * [T2TRG security interim meeting, Paris, May 2024](https://github.com/t2trg/2024-05-security)
 * [T2TRG hackathon & work meeting, Prague, November 2023](https://github.com/t2trg/2023-11-prague)
